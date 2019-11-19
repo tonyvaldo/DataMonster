@@ -179,7 +179,7 @@ body {
   top: 10.5rem;
   left: 10%;
   opacity: 0;
-  color: #F0A3BE;
+  color: #F0EBA3;
   animation-name: fadeInOut;
   animation-delay: 25s;
   animation-duration: 9s;
@@ -191,7 +191,7 @@ body {
   left: 5%;
   bottom: 25%;
   opacity: 0;
-  color: #F0EBA3;
+  color: #F0A3BE;
   animation-name: bottomFadeOut;
   animation-delay: 27s;
   animation-duration: 22s;
