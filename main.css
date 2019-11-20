@@ -7,15 +7,7 @@ h1 {
 h2 {
   color: #d7b6e3;
   padding: 20px 0px 10px 0px;
-  font-size: 9.4rem;
-  position: absolute;
-  left: 2.5rem;
-  top: 5rem;
-  opacity: 0;
-  animation-name: topFadeOut;
-    animation-delay: 1s;
-  animation-duration: 40s;
-  
+
 }
 /* This changes color and removes default underline in links  */
 a {
@@ -150,7 +142,7 @@ body {
   }
 }
 
-/* .w3-text{
+.w3-container{
   font-size: 9.4rem;
   position: absolute;
   left: 2.5rem;
@@ -160,7 +152,7 @@ body {
     animation-delay: 1s;
   animation-duration: 40s;
   color: white;
-} */
+}
 .welcome-text {
   font-size: 7.4rem;
   position: absolute;
